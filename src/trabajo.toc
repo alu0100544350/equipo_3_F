@@ -1,0 +1,19 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}\textbf Motivaci\IeC {\'o}n y objetivos}{1}
+\contentsline {chapter}{\numberline {2}\textbf Fundamentos te\IeC {\'o}ricos}{2}
+\contentsline {section}{\numberline {2.1}\textbf {Variables aleatorias}}{2}
+\contentsline {subsection}{\numberline {2.1.1}Variable aleatoria continua}{2}
+\contentsline {subsection}{\numberline {2.1.2}Variable aleatoria discreta}{3}
+\contentsline {section}{\numberline {2.2}Variable aleatoria hipergeom\IeC {\'e}trica :}{3}
+\contentsline {chapter}{\numberline {3}\textbf Procedimento Experimental}{4}
+\contentsline {section}{\numberline {3.1}Descripci\IeC {\'o}n de los experimentos}{4}
+\contentsline {subsection}{\numberline {3.1.1}Poker de Ases}{4}
+\contentsline {subsection}{\numberline {3.1.2}Color}{5}
+\contentsline {section}{\numberline {3.2}Descripci\IeC {\'o}n del material}{5}
+\contentsline {section}{\numberline {3.3}Resultados obtenidos}{6}
+\contentsline {section}{\numberline {3.4}An\IeC {\'a}lisis de los resultados}{7}
+\contentsline {chapter}{\numberline {4}Conclusiones}{8}
+\contentsline {chapter}{\numberline {A}Algoritmo Poker de Ases}{9}
+\contentsline {chapter}{\numberline {B}Algoritmo Color}{10}
+\contentsline {chapter}{\numberline {C}Algoritmo F.D Hipergeom\IeC {\'e}trica}{11}
+\contentsline {chapter}{\numberline {D}F.D Hipergeom\IeC {\'e}trica Implementada}{13}

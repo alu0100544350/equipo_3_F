@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Motivaci\IeC {\'o}n y objetivos}{3}{0}{1}
+\beamer@sectionintoc {2}{Variable aleatoria Hipergeom\IeC {\'e}trica}{4}{0}{2}
+\beamer@sectionintoc {3}{Procedimiento experimental}{5}{0}{3}
+\beamer@subsectionintoc {3}{1}{Poker de Ases}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Color}{7}{0}{3}
+\beamer@sectionintoc {4}{Algoritmo de la funci\IeC {\'o}n Hipergeom\IeC {\'e}trica}{8}{0}{4}
+\beamer@sectionintoc {5}{Interpretaci\IeC {\'o}n Gr\IeC {\'a}fica}{9}{0}{5}
+\beamer@subsectionintoc {5}{1}{Interpretaci\IeC {\'o}n Gr\IeC {\'a}fica de las probabilidades}{10}{0}{5}
+\beamer@subsectionintoc {5}{2}{Interpretaci\IeC {\'o}n Gr\IeC {\'a}fica del tiempo}{11}{0}{5}
+\beamer@sectionintoc {6}{Conclusi\IeC {\'o}n}{12}{0}{6}
+\beamer@sectionintoc {7}{Bibliograf\IeC {\'\i }a}{13}{0}{7}
